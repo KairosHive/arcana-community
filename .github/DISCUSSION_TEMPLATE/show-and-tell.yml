@@ -1,0 +1,24 @@
+title: "[Made with Arcana] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Show something you made with Arcana, a board, pictures, a film, a story or a skill. Drag pictures or a short video into the description.
+  - type: textarea
+    id: work
+    attributes:
+      label: The work
+      description: Pictures, a video or a link, with a few words on what it is.
+    validations:
+      required: true
+  - type: textarea
+    id: how
+    attributes:
+      label: How you made it
+      description: The archive you started from, the tabs and settings you used, and anything you would do differently.
+  - type: checkboxes
+    id: feature
+    attributes:
+      label: The Arcana website
+      options:
+        - label: Kairos Hive may show this work on the Arcana website's community page, with my name and a link to this post.

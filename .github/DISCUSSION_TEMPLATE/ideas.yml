@@ -1,0 +1,24 @@
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Suggest something Arcana could do. Search the Ideas first, and upvote an idea that already says it.
+  - type: textarea
+    id: idea
+    attributes:
+      label: The idea
+      description: What Arcana would do, in a sentence or two.
+    validations:
+      required: true
+  - type: textarea
+    id: work
+    attributes:
+      label: The work it helps
+      description: The archive, the project or the moment in your work where you would use it.
+    validations:
+      required: true
+  - type: textarea
+    id: now
+    attributes:
+      label: How you do it today
+      description: The workaround or other tool you use now, if any.

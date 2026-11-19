@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "arcana": {
+      "command": "${LOCALAPPDATA}/Programs/Arcana/Arcana.exe",
+      "args": [
+        "--mcp"
+      ]
+    }
+  }
+}

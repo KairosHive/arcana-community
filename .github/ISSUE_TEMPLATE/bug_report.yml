@@ -1,0 +1,33 @@
+name: Report a bug
+description: Something in Arcana broke or behaves wrongly.
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you did, step by step, what you expected, and what Arcana did instead.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Arcana version
+      description: Shown beside the name in Arcana's header.
+    validations:
+      required: true
+  - type: dropdown
+    id: build
+    attributes:
+      label: Installer
+      options:
+        - Standard
+        - GPU
+        - Not sure
+    validations:
+      required: true
+  - type: textarea
+    id: log
+    attributes:
+      label: Error text or screenshot
+      description: Any message Arcana showed. Leave out pictures you would rather keep private.
