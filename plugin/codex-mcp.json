@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "arcana": {
+      "command": "cmd.exe",
+      "args": [
+        "/d",
+        "/c",
+        ".\\launch-arcana.cmd",
+        "--mcp"
+      ],
+      "cwd": ".",
+      "startup_timeout_sec": 60
+    }
+  }
+}

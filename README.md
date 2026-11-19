@@ -30,13 +30,24 @@ your permission, and only posts with that box ticked are shown.
 
 ## The agent plugin
 
-The [plugin](plugin/) connects Claude Code to the Arcana installed on your
-computer and adds Arcana's skills, **moodboard**, **board-design**, **harmonize**
-and **metaphysical-moodboard**. In Claude Code, run
+The [plugin](plugin/) connects Claude Code or Codex to the Arcana installed on
+your computer and adds Arcana's skills, **moodboard**, **board-design**,
+**harmonize** and **metaphysical-moodboard**. Arcana's own **Agent** tab already
+has all of this, so the plugin is for an agent you run elsewhere.
+
+In Claude Code, run
 
 ```
 /plugin marketplace add KairosHive/arcana-community
 /plugin install arcana@arcana
+```
+
+For Codex, run these in a terminal, then start a new Codex session. In the Codex
+app, the plugin then appears in the **Plugins** tab.
+
+```
+codex plugin marketplace add KairosHive/arcana-community
+codex plugin add arcana@arcana
 ```
 
 The plugin starts `%LOCALAPPDATA%\Programs\Arcana\Arcana.exe`, where the

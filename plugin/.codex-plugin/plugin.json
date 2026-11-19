@@ -1,0 +1,22 @@
+{
+  "name": "arcana",
+  "version": "0.2.0",
+  "description": "Search your own picture archive by what the pictures show, build moodboards from it, recolour pictures and lay boards out as pages, through the Arcana installed on this computer.",
+  "author": {
+    "name": "Kairos Hive"
+  },
+  "homepage": "https://arcana.kairos-hive.org/community",
+  "license": "MIT",
+  "keywords": [
+    "moodboard",
+    "images",
+    "clip",
+    "colour transfer",
+    "archive"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./codex-mcp.json",
+  "interface": {
+    "displayName": "Arcana"
+  }
+}
