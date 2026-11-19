@@ -1,6 +1,6 @@
 ---
 name: metaphysical-moodboard
-description: Build a moodboard on a metaphysical or existential theme (disintegration, impermanence, death, emptiness, the void, transformation, memory, the sacred) from the person's Arcana archive, with text fragments from poets, mystics and traditions, laid out as a designed HTML page whose form enacts the theme and prints to PDF. Use when the person asks for a "metaphysical moodboard", a poetic or literary moodboard, a board "with texts" or "with poets", or wants the design of the board itself to embody its subject.
+description: Build a moodboard on a theme with depth, metaphysical, existential, poetic or psychological (disintegration, impermanence, death, emptiness, the void, transformation, memory, the sacred, reflection, mind and body, perception, the self), from the person's Arcana archive, with text fragments from poets, mystics and traditions, laid out as a designed HTML page whose form enacts the theme and prints to PDF. Use when the person asks for a "metaphysical moodboard", a poetic or literary moodboard, a board "with texts" or "with poets", wants the design of the board itself to embody its subject, or names a passage between two states (from mind to body, from darkness to light).
 ---
 
 # Metaphysical moodboard

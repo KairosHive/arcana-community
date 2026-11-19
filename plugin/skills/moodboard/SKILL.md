@@ -9,6 +9,13 @@ Arcana's `exec` tool takes op lines. Every line below is one you can send. Put
 several in one call and they run as one batch and one undo step. `<op> --help`
 gives any op's full shape.
 
+When the theme reaches past what pictures show, such as a passage (from mind
+to body), an inner state, a metaphysical or poetic idea, read the
+`metaphysical-moodboard` skill too and follow it. It adds texts from writers
+and traditions, each checked against a source online, a structure taken from
+those sources, and a designed page. This skill still does the search and the
+cut.
+
 ## 1. Restate the brief
 
 Write the brief back as one paragraph that says what the board argues, in
